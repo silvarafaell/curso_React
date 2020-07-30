@@ -1,183 +1,184 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Ce",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "Noticias do Futebol Cearense",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Sobre o Futebol!!",
+          "url": "https://www.youtube.com/watch?v=B9mAs9fPUMA"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Classico Rei",
+          "url": "https://www.youtube.com/watch?v=ByKOZz9IUt4"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Entrevista Coletiva Rogério Ceni / Fortaleza 0 x 1 Ceará",
+          "url": "https://www.youtube.com/watch?v=Bvau_OgmwXo"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Entrevista Coletiva Guto Ferreira / Fortaleza 0 x 1 Ceará",
+          "url": "https://www.youtube.com/watch?v=7KNIQ0C8bf0"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Gols de Fortaleza 0 (4)x(1) 0 Sport / Copa do Nordeste 2020",
+          "url": "https://www.youtube.com/watch?v=ZIOKQZ32XHQ"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Gols de Ceará 1 x 0 Vitória / Copa do Nordeste 2020",
+          "url": "https://www.youtube.com/watch?v=kGv-OlW8t0Q"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Boletim FCF TV #30 com o goleiro Felipe Alves, o meia Vina e o meia-atacante Romário",
+          "url": "https://www.youtube.com/watch?v=uqtVNnhQ7xk"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Gols de CRB 1 x 2 Ceará | Copa do Nordeste 2020",
+          "url": "https://www.youtube.com/watch?v=EFwExW8WxkM"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "SP",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
+        "text": "Noticias do Futebol do estado de São Paulo",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "O futebol MAIS BONITO do Estado era o do SPFC",
+          "url": "https://www.youtube.com/watch?v=WT_GTxJPWhA"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "VEXAME TRICOLOR | São Paulo 2 x 3 Mirassol | Melhores Momentos ",
+          "url": "https://www.youtube.com/watch?v=VpGKlAoSukE"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Palmeiras 2 x 0 Santo André | Melhores Momentos | HD 29/07/2020",
+          "url": "https://www.youtube.com/watch?v=Pelme9MMchI"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "BRAGANTINO X CORINTHIANS  TIMÃO É FAVORITO  JÔ ESCALADO PARA O JOGO",
+          "url": "https://www.youtube.com/watch?v=MbePvgzIzAg"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "SÁNCHEZ VÊ #SANTOS PRONTO PARA A DECISÃO",
+          "url": "https://www.youtube.com/watch?v=m-rwO5k41gw"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "RJ",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
+        "text": "Noticias do Futebol do Estado do Rio de Janeiro",
         "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Treino do Flamengo  30/07/2020",
+          "url": "https://www.youtube.com/watch?v=1gQzL1Sh43s"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "MENGÃO CAMPEÃO | Flamengo 1 x 0 Fluminense | Melhores Momentos",
+          "url": "https://www.youtube.com/watch?v=bE2PvPtEBTs"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "FluTV - O time de guerreiros segue a preparação para o amistoso contra o Botafogo!",
+          "url": "https://www.youtube.com/watch?v=j08rnmw9Cfo"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "DEU FLUZÃO | Fluminense 1 x 0 Botafogo | Melhores Momentos",
+          "url": "https://www.youtube.com/watch?v=yau4zxLxadU"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Ba",
       "cor": "orange",
+      "text": "Noticias do Futebol do Estado da Bahia",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Bahia 3 x 1 Botafogo | Gols e Melhores Momentos | Quartas de final |",
+          "url": "https://www.youtube.com/watch?v=_dMVDn6msmA"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "BOM JOGO! BAHIA 2 x 0 FLUMINENSE FEIRA | Melhores Momentos | Campeonato Baiano 2020 | HD 26/07/2020",
+          "url": "https://www.youtube.com/watch?v=aXectOskrJ0"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Bahia 0 x 2 Vitória | Gols e Melhores Momentos | 3ª rodada | Copa do Nordeste 2020",
+          "url": "https://www.youtube.com/watch?v=PhDr2NpidiE"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "7 expulso no Bahia X Vitória e pancadaria entre os jogadores - Teve até soco na cara!",
+          "url": "https://www.youtube.com/watch?v=61tE8WXE5P8"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "PR",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "Noticias do Futebol do estado do Parana",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Coritiba vence o Cianorte e confirma vaga na final do Paranaense - Show de Bola (30/07/2020)",
+          "url": "https://www.youtube.com/watch?v=WKLgITVl6VU"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "DORIVAL JÚNIOR: A equipe vem em evolução, conseguindo encontrar um caminho",
+          "url": "https://www.youtube.com/watch?v=XLOkM7jbKZA"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Paraná Clube 3 x 2 Bahia de Feira Melhores Momentos Copa Do Brasil 2020",
+          "url": "https://www.youtube.com/watch?v=l1Ijy68Nf3A"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "VIRADA HISTÓRICA DO PARANÁ CLUBE COM A NARRAÇÃO DE EDILSON DE SOUZA",
+          "url": "https://www.youtube.com/watch?v=1zHFDGQbRuw"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "MAIS UMA GOLEADA! Athletico Paranaense 5x1 FC Cascavel | MELHORES MOMENTOS",
+          "url": "https://www.youtube.com/watch?v=buCJ0SYohWQ"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "RS",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
+        "text": "Noticias do Futebol do estado do Rio grando do Sul",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "TROPEÇO TRICOLOR | Grêmio 1 x 1 Ypiranga | Melhores Momentos | HD 26/07/2020",
+          "url": "https://www.youtube.com/watch?v=_GpFqq5gdIY"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Internacional 0 x 1 Grêmio | Melhores Momentos | HD 22/07/2020",
+          "url": "https://www.youtube.com/watch?v=5UXrF116hPM"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "SÓ ENTRADA VIOLENTA | Internacional 0 x 1 Grêmio | Melhores Momentos | HD 22/07/2020",
+          "url": "https://www.youtube.com/watch?v=WnGxg7VNe8U"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "COLORADO VOLTOU MAL | Esportivo-RS 1 x 1 Internacional | Melhores Momentos | HD 25/07/2020",
+          "url": "https://www.youtube.com/watch?v=Arro4VQt8GE"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "GUERRERO MARCOU DUAS VEZES | Internacional 2 x 0 Aimoré | Melhores Momentos | HD 29/07/2020",
+          "url": "https://www.youtube.com/watch?v=koN4_Pg8kRQ"
         }
       ]
     }
