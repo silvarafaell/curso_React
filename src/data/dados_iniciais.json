@@ -1,9 +1,9 @@
 {
   "categorias": [
     {
-      "titulo": "Ce",
+      "titulo": "CE",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "cor": "#A9A9A9",
       "link_extra": {
         "text": "Noticias do Futebol Cearense",
         "url": "https://www.alura.com.br/cursos-online-front-end"
@@ -11,11 +11,11 @@
       "videos": [
         {
           "titulo": "Sobre o Futebol!!",
-          "url": "https://www.youtube.com/watch?v=B9mAs9fPUMA"
+          "url": "https://www.youtube.com/watch?v=sqQBn0PZ0Y8"
         },
         {
-          "titulo": "Classico Rei",
-          "url": "https://www.youtube.com/watch?v=ByKOZz9IUt4"
+          "titulo": "CEARÁ CAMPEÃO INVICTO! ARROCHA! Vozão vence o Bahia e é bicampeão da Copa do Nordeste",
+          "url": "https://www.youtube.com/watch?v=aVImvIcoRCg"
         },
         {
           "titulo": "Entrevista Coletiva Rogério Ceni / Fortaleza 0 x 1 Ceará",
@@ -45,7 +45,7 @@
     },
     {
       "titulo": "SP",
-      "cor": "#00C86F",
+      "cor": "#A9A9A9",
       "link_extra": {
         "text": "Noticias do Futebol do estado de São Paulo",
         "url": "https://www.alura.com.br/cursos-online-programacao"
@@ -75,7 +75,7 @@
     },
     {
       "titulo": "RJ",
-      "cor": "#9cd33b",
+      "cor": "#A9A9A9",
       "link_extra": {
         "text": "Noticias do Futebol do Estado do Rio de Janeiro",
         "url": "https://www.alura.com.br/formacao-data-science"
@@ -100,8 +100,8 @@
       ]
     },
     {
-      "titulo": "Ba",
-      "cor": "orange",
+      "titulo": "BA",
+      "cor": "#A9A9A9",
       "text": "Noticias do Futebol do Estado da Bahia",
       "videos": [
         {
@@ -124,7 +124,7 @@
     },
     {
       "titulo": "PR",
-      "cor": "red",
+      "cor": "#A9A9A9",
       "link_extra": {
         "text": "Noticias do Futebol do estado do Parana",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
@@ -154,7 +154,7 @@
     },
     {
       "titulo": "RS",
-      "cor": "#6b5be2",
+      "cor": "#A9A9A9",
       "link_extra": {
         "text": "Noticias do Futebol do estado do Rio grando do Sul",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
