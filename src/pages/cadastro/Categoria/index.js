@@ -113,6 +113,7 @@ function CadastroCategoria() {
         Loading...
       </div>
       )}
+
       <ul>
         {categorias.map((categoria) => (
           <li key={`${categoria.nome}`}>
