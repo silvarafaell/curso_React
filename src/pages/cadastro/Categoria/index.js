@@ -32,10 +32,12 @@ function CadastroCategoria() {
   useEffect(() => {
     // eslint-disable-next-line no-console
     console.log('alo alo w Brasil');
-    const URL_TOP = 'http://localhost:8080/categorias';
+    const URL_TOP = window.location.href.includes('localhost')
+      ? 'http://localhost:8080/categorias'
+      : 'https://devrafaelflix.herokuapp.com/categorias';
     fetch(URL_TOP)
-      .then(async (respostaDoServer) => {
-        const resposta = await respostaDoServer.json();
+      .then(async (respostaDoServidor) => {
+        const resposta = await respostaDoServidor.json();
         setCategorias([
           ...resposta,
         ]);
@@ -110,14 +112,15 @@ function CadastroCategoria() {
 
       {categorias.length === 0 && (
       <div>
+        {/* Carregando... */}
         Loading...
       </div>
       )}
 
       <ul>
         {categorias.map((categoria) => (
-          <li key={`${categoria.nome}`}>
-            {categoria.nome}
+          <li key={`${categoria.id}`}>
+            {categoria.titulo}
           </li>
         ))}
       </ul>
